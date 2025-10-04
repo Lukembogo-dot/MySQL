@@ -24,7 +24,7 @@ It covers the full process from database design → schema creation → CRUD ope
 ## 🏗️ ER Diagram
 Here is the ERD representing the database schema:
 
-![ER Diagram](./ERD.png)
+![ER Diagram](SQL%20Import%20(sql_server).png)
 
 ## 🛠️ Tech Stack
 - Microsoft SQL Server
